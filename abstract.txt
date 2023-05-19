@@ -1,0 +1,52 @@
+﻿By
+Sirpuram Akshay 
+
+                                          ABSTRACT
+Intrusion Detection and Prevention using Honeypot Network for Cloud Security.
+With the rapid increase in the number of users, there is a rise in issues related to hardware failure, web hosting, space and memory allocation of data, which is directly or indirectly leading to the loss of data. With the objective of providing services that are reliable, fast and low in cost, we turn to cloud-computing practices. With a tremendous development in this technology, there is ever increasing chance of its security being compromised by malicious users. A way to divert malicious traffic away from systems is by using Honeypot. It is a colossal strategy that has shown signs of improvement in security of systems. Keeping in mind the various legal issues one may face while deploying Honeypot on third-party cloud vendor servers, the concept of Honeypot is implemented in a file-sharing application which is deployed on cloud server. This paper discusses the detection attacks in a cloud-based environment as well as the use of Honeypot for its security, thereby proposing a new technique to do the same.
+
+
+
+                                     INTRODUCTION
+Purpose:
+Honeypots can be defined as systems or assets which are used to not only trap, monitor but to also identify erroneous requests present within a network. They vary in the interaction provided to the attackers, from low interaction to medium and high, each type has its advantages and disadvantages. Their aim is to analyze, understand, watch and track attacker’s behaviour in order to create systems that are not only secure but can also handle such traffic. It is a closely monitored computing resource that we want to be probed, attacked, or compromised. “More precisely, it is an information system resource whose value lies in unauthorized or illicit use of that resource.”
+
+
+Scope:
+This paper discusses the detection attacks in a cloud-based environment as well as the use of Honeypot for its security, thereby proposing a new technique to do the same.
+
+
+Overview: 
+Cloud computing is a technique to store, share and access data anytime and anywhere with a device that is connected to a network, preferably the internet. Cloud computing consists of an expandable storage space with no physical storage space which is accessible from anywhere in the world using any device, by connecting it to the internet. It contains large number of computing devices connected through a real-time communication (the internet) and has a common data storage area. The term “the cloud” is used as a metaphor for the Internet, based on the fact that a cloud like shape was used to indicate network telephone schematics, and later the Internet as an abstraction of underlying infrastructure it represents. Honeypots are viewed as a successful technique to track programmer conduct and uplift the viability of security instruments. Honeypots are specifically designed to not only purposely engage and deceive hackers but also identify malicious activities performed over the Internet and can be counted as an effective method to track hacker behaviour. 
+
+
+ Problem Statement:
+Cloud-based Honeypots give the capacity to explore and examine assaults that hit ordinary customers.Having them permits a specialist to interpret the IP locations and malware being utilized into security content that can ensure a normal cloud environment. Once those IP addresses have been distinguished, they will then lead a ping scope and defencelessness output to discover a shortcoming in the system outline or vulnerabilities in programming that can be misused. It's conspicuous yet genuine; awful folks pursue the weakest focuses the most often [9]. There are upsides of utilizing a cloud construct Honeypot in light of a cloud framework is like customary Honeypots in that it ought to have the capacity to decide whether a cloud framework has been traded off or endeavours were made to do so.
+At last, they can essentially sit and log all movement coming into the cloud site; and in light of the fact that it's utilized for this particular reason practically any action ought to be dealt with as instantly suspicious. Honeypots can serve to make dangers more obvious and go about as an early alert framework, which gives a cloud organization a more proactive way to deal with security instead of responsive. Any association with either outside resources/areas or cloud administrations ought to deploy cloud-based Honeypots.
+ 
+
+
+SOFTWARE REQUIREMENTS:
+The functional requirements or the overall description documents include the product perspective and features, operating system and operating environment, graphics requirements, design constraints and user documentation.
+The appropriation of requirements and implementation constraints gives the general overview of the project in regards to what the areas of strength and deficit are and how to tackle them.
+
+
+* Python idel 3.7 version   (or)
+* Anaconda 3.7   ( or)
+* Jupiter   (or)
+* Google colab
+
+
+HARDWARE REQUIREMENTS:
+Minimum hardware requirements are very dependent on the particular software being developed by a given Enthought Python / Canopy / VS Code user. Applications that need to store large arrays/objects in memory will require more RAM, whereas applications that need to perform numerous calculations or tasks more quickly will require a faster processor.
+* Operating system                : windows, linux
+* Processor                        : minimum intel i3
+* Ram                                :  minimum 4 gb
+* Hard disk                         : minimum 250gb
+
+
+
+
+FUNCTIONAL REQUIREMENTS:
+1.Upload File
+2.Download File
